@@ -36,7 +36,7 @@ h3 {
     color: rgb(0, 0, 0, 50%);
 }
 
-#example2 {
+body {
     background-image: url(cross.png);
     background-color: #DCF5F5;
 }
