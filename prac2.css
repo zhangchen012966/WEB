@@ -32,6 +32,11 @@ h3 {
     color:rgb(0, 0, 139, 0.8)
 }
 
-.transparent-text{
+.transparent-text {
     color: rgb(0, 0, 0, 50%);
+}
+
+#example2 {
+    background-image: url(cross.png);
+    background-color: #DCF5F5;
 }
