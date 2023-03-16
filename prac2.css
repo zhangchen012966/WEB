@@ -40,3 +40,15 @@ body {
     background-image: url(cross.png);
     background-color: #DCF5F5;
 }
+
+#example1 {
+    background-color: white;
+}
+
+.blue {
+    color:blue;
+}
+
+.fancy {
+    font-family:cursive;
+}
