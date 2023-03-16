@@ -52,3 +52,42 @@ body {
 .fancy {
     font-family:cursive;
 }
+
+.red-border {
+    border-style: solid;
+    border-color: red;
+}
+
+.blue-border {
+    border-style: solid;
+    border-color: blue;
+}
+
+.red-border1 {
+    border-style: solid;
+    border-color: red;
+    border-bottom-style: none;
+    border-radius: 8px 8px 1px 1px;
+}
+
+.blue-border1 {
+    border-style: solid;
+    border-color: blue;
+    border-radius: 1px 1px 8px 8px;
+}
+
+.red-outline {
+    outline-style: solid;
+    outline-color: red;
+}
+
+hr {
+    color: #CFDFE4;
+}
+
+.round1 {
+    border: 1px solid darkgrey;
+    border-radius: 8px;
+    background-color: white;
+}
+
